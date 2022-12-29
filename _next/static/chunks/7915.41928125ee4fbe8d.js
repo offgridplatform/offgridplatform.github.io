@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7915],{47915:function(n,e,i){i.r(e),i.d(e,{gnosisSafe:function(){return r},hooks:function(){return c}});var t=i(828),o=i(77985),s=i(93382),u=(0,t.Z)((0,o.initializeConnector)((function(n){return new s.GnosisSafe({actions:n})})),2),r=u[0],c=u[1]}}]);

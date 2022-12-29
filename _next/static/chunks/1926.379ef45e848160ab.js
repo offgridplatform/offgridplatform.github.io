@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1926],{71985:function(n,t,e){"use strict";e.r(t),e.d(t,{hooks:function(){return a},walletConnect:function(){return s}});var o=e(828),c=e(77985),i=e(97309),u=e(80234),r=(0,o.Z)((0,c.initializeConnector)((function(n){return new i.WalletConnect({actions:n,options:{rpc:u.ns}})})),2),s=r[0],a=r[1]},36563:function(){}}]);
